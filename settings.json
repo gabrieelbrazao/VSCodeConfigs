@@ -1,0 +1,44 @@
+{
+  // Theme
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+
+  // Terminal
+  "terminal.integrated.fontSize": 14,
+
+  // Sidebar icons
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+
+  // Font
+  "editor.tabSize": 2,
+  "editor.fontSize": 18,
+  "editor.lineHeight": 24,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+
+  // Editor
+  "explorer.compactFolders": false,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "workbench.tree.indent": 20,
+  "extensions.ignoreRecommendations": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": 0,
+
+  // ESLINT
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  // Genymotion
+  "genymotion.genymotion.installedPath": "C:\\Program Files\\Genymobile\\Genymotion",
+  "genymotion.virtualBox.installedPath": "C:\\Program Files\\Oracle\\VirtualBox",
+
+  // End of line sequence - Linux
+  "files.eol": "\n"
+}
